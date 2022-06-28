@@ -1,3 +1,3 @@
 import 'package:flutter/material.dart';
 
-const Color kFont = Color(0xFF180141);
+const Color eFont = Color(0xFF180141);
